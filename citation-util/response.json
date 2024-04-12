@@ -1,0 +1,558 @@
+{
+    "response": [
+        {
+            "text": "MAPS ID: 503342-002 <b>Azure\u2122 S SR MRI SureScan\u2122 W3SR01\n\nMR Conditional single chamber pacemaker with SureScan\u2122 technology and Bluetooth\u00ae\nwireless telemetry (OOE-VVIR)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevice Manual\nCaution: Federal law (USA) restricts this device to sale by or on the order of a physician.</b> The following list includes trademarks or registered trademarks of Medtronic in the United States and\npossibly in other countries. All other trademarks are the property of their respective owners.",
+            "score": 0.98038065,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "1"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "1"
+                },
+                {
+                    "name": "offset",
+                    "value": "0"
+                },
+                {
+                    "name": "len",
+                    "value": "301"
+                }
+            ],
+            "documentIndex": 0,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 23,
+            "resultLength": 301
+        },
+        {
+            "text": "Warning: Bipolar or unipolar leads may be used with the Advisa DR MRI SureScan device,\nbut if leads other than bipolar SureScan leads are used, the system is not approved for MRI\nscans. Before performing an MRI scan, refer to the Medtronic MRI Technical Manual for\nadditional information. <b>MRI SureScan feature \u2013 The pacemaker becomes part of a Medtronic SureScan pacing\nsystem when connected to Medtronic SureScan leads and other predefined conditions are\nmet.</b> Labeling for SureScan pacing system components contains the SureScan symbol and\nthe MR Conditional symbol. SureScan logo\n\n\n\nMR Conditional symbol.",
+            "score": 0.959723,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "12"
+                },
+                {
+                    "name": "title",
+                    "value": "1.2  Advisa DR MRI system description"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"1  System overview\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "10"
+                },
+                {
+                    "name": "offset",
+                    "value": "1705"
+                },
+                {
+                    "name": "len",
+                    "value": "171"
+                }
+            ],
+            "documentIndex": 1,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 292,
+            "resultLength": 171
+        },
+        {
+            "text": "8.1.4.2  PVAB operation with unipolar atrial sensing 8.1.4.2  PVAB operation with unipolar atrial sensing\nPartial PVAB and Partial+ PVAB \u2013 If the atrial lead is configured for unipolar sensing, Partial\nPVAB and Partial+ PVAB operate in the same way. <b>Atrial sensed events in the PVAB interval\nare not used by bradycardia pacing features but are used by tachyarrhythmia detection\nfeatures.</b> Clinician Manual                                                                                                                          145\n                                                  ADVISA DR MRI\u2122 SURESCAN\u2122 A2DR01, ADVISA SR MRI\u2122\nMedtronic                                                                                                  SURESCAN\u2122 A3SR01\n\n\n\nAbsolute PVAB \u2013 When the Absolute PVAB method is used, no atrial events are sensed in\nthe PVAB interval. The Absolute PVAB method is recommended only for addressing\ncomplications that are not addressed by the other PVAB methods.",
+            "score": 0.93015206,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "145"
+                },
+                {
+                    "name": "title",
+                    "value": "8.1.4.2  PVAB operation with unipolar atrial sensing"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"8  Configuring pacing therapies\",\"8.1  Sensing intrinsic cardiac activity\",\"8.1.4  Operation of Post-Ventricular Atrial Blanki...\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "228"
+                },
+                {
+                    "name": "offset",
+                    "value": "198"
+                },
+                {
+                    "name": "len",
+                    "value": "137"
+                }
+            ],
+            "documentIndex": 1,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 253,
+            "resultLength": 137
+        },
+        {
+            "text": "1.2.2  System components and accessories 1.2.2  System components and accessories\nContents of sterile package \u2013 The package contains 1 implantable pulse generator (IPG) and 1 torque wrench. <b>Implantable device system \u2013 The Azure S SR MRI SureScan Model W3SR01 device and the pacing lead\nconstitute the implantable portions of the device system.</b> Lead \u2013 The lead system used with this device must provide sensing and pacing to the right ventricle (RV). Do not\nuse any lead with this device without first verifying lead and connector compatibility.",
+            "score": 0.928478,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "5"
+                },
+                {
+                    "name": "title",
+                    "value": "1.2.2  System components and accessories"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"1  System overview\",\"1.2  System description\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "5"
+                },
+                {
+                    "name": "offset",
+                    "value": "150"
+                },
+                {
+                    "name": "len",
+                    "value": "153"
+                }
+            ],
+            "documentIndex": 0,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 193,
+            "resultLength": 153
+        },
+        {
+            "text": "1.3  Indications and usage\n\nThe Azure S SR MRI SureScan W3SR01 system is indicated for the following conditions:\n  \u25cf   Rate adaptive pacing in patients who may benefit from increased pacing rates concurrent with increases in\nactivity\n  \u25cf   Accepted patient conditions warranting chronic cardiac pacing, which include:\n        \u2013   Symptomatic paroxysmal or permanent second- or third-degree AV block\n        \u2013   Symptomatic bilateral bundle branch block\n        \u2013   Symptomatic paroxysmal or transient sinus node dysfunctions with or without associated AV conduction\ndisorders\n        \u2013   Bradycardia-tachycardia syndrome to prevent symptomatic bradycardia or some forms of symptomatic\ntachyarrhythmias 1.4  Contraindications <b>1.4  Contraindications\n\nThe Azure S SR MRI SureScan Model W3SR01 system is contraindicated for:\n  \u25cf   Concomitant implant with another bradycardia device\n  \u25cf   Concomitant implant with an implantable cardioverter defibrillator\n\n\n\nThere are no known contraindications for the use of pacing as a therapeutic modality to control heart rate.</b> The\npatient\u2019s age and medical condition, however, may dictate the particular pacing system, mode of operation, and\nimplant procedure used by the physician. \u25cf   Rate-responsive modes may be contraindicated in those patients who cannot tolerate pacing rates above the\n        programmed Lower Rate.",
+            "score": 0.9086704,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "5"
+                },
+                {
+                    "name": "title",
+                    "value": "1.4  Contraindications"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"1  System overview\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "8"
+                },
+                {
+                    "name": "offset",
+                    "value": "1"
+                },
+                {
+                    "name": "len",
+                    "value": "337"
+                }
+            ],
+            "documentIndex": 0,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 728,
+            "resultLength": 337
+        },
+        {
+            "text": "\u25cf   A health professional who has completed radiology SureScan training must be present during the MRI scan. 1.6  Feature summary <b>1.6  Feature summary\n\nThe following features are available in this device.</b> For a list of the features that are enabled at shipping, see the\n\u201cShipped\u201d column of the tables in Chapter 6, \u201cDevice parameters\u201d, page 23. 1.6.1  Pacing features",
+            "score": 0.9002441,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "6"
+                },
+                {
+                    "name": "title",
+                    "value": "1.6  Feature summary"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"1  System overview\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "12"
+                },
+                {
+                    "name": "offset",
+                    "value": "1"
+                },
+                {
+                    "name": "len",
+                    "value": "74"
+                }
+            ],
+            "documentIndex": 0,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 133,
+            "resultLength": 74
+        },
+        {
+            "text": "Warning: A bipolar or unipolar lead may be used with the Advisa SR MRI SureScan device,\nbut if a lead other than a bipolar MRI SureScan lead is used, the system is contraindicated\nfor MRI scans. Before performing an MRI scan, refer to the Medtronic MRI Technical Manual\nfor additional information. <b>MRI SureScan feature \u2013 The pacemaker becomes part of a Medtronic SureScan pacing\nsystem when connected to a Medtronic SureScan lead and other predefined conditions are\n\n\n14                                                                                                                             Clinician Manual\n                                                  ADVISA DR MRI\u2122 SURESCAN\u2122 A2DR01, ADVISA SR MRI\u2122\nMedtronic                                                                                                  SURESCAN\u2122 A3SR01\n\n\n\nmet.</b> Labeling for SureScan pacing system components contains the SureScan symbol and\nthe MR Conditional symbol. SureScan logo\n\n\n\nMR Conditional symbol.",
+            "score": 0.88893205,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "14"
+                },
+                {
+                    "name": "title",
+                    "value": "1.3  Advisa SR MRI system description"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"1  System overview\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "11"
+                },
+                {
+                    "name": "offset",
+                    "value": "1413"
+                },
+                {
+                    "name": "len",
+                    "value": "543"
+                }
+            ],
+            "documentIndex": 1,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 301,
+            "resultLength": 543
+        },
+        {
+            "text": "3  When the Absolute PVAB method is used, an atrial event is blanked in the PVAB interval whether\n     or not the far-field R-wave exceeds the atrial threshold. 4  Except for the change in the atrial sensing threshold, the Partial+ PVAB and Partial PVAB\n        methods are similar. <b>With either method, atrial events sensed in the PVAB interval are used by the\n     tachyarrhythmia detection features.</b> 8.1.4.2  PVAB operation with unipolar atrial sensing 8.1.4.2  PVAB operation with unipolar atrial sensing\nPartial PVAB and Partial+ PVAB \u2013 If the atrial lead is configured for unipolar sensing, Partial\nPVAB and Partial+ PVAB operate in the same way.",
+            "score": 0.8854729,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "144"
+                },
+                {
+                    "name": "title",
+                    "value": "8.1.4.1  PVAB operation with bipolar atrial sensing"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"8  Configuring pacing therapies\",\"8.1  Sensing intrinsic cardiac activity\",\"8.1.4  Operation of Post-Ventricular Atrial Blanki...\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "227"
+                },
+                {
+                    "name": "offset",
+                    "value": "2762"
+                },
+                {
+                    "name": "len",
+                    "value": "118"
+                }
+            ],
+            "documentIndex": 1,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 286,
+            "resultLength": 118
+        },
+        {
+            "text": "1.6  Feature summary 1.6  Feature summary\n\nThe following features are available in this device. <b>For a list of the features that are enabled at shipping, see the\n\u201cShipped\u201d column of the tables in Chapter 6, \u201cDevice parameters\u201d, page 23.</b> 1.6.1  Pacing features 1.6.1  Pacing features\nAutomatic polarity configuration \u2013 This device uses lead impedance measurements to automatically configure\npacing and sensing polarities during Implant Detection.",
+            "score": 0.8839394,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "6"
+                },
+                {
+                    "name": "title",
+                    "value": "1.6  Feature summary"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"1  System overview\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "12"
+                },
+                {
+                    "name": "offset",
+                    "value": "76"
+                },
+                {
+                    "name": "len",
+                    "value": "139"
+                }
+            ],
+            "documentIndex": 0,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 99,
+            "resultLength": 139
+        },
+        {
+            "text": "Figure 80. RV Capture Threshold detail 8.6  Configuring lead polarity <b>8.6  Configuring lead polarity\nWhen leads are connected to the device at implant, a mechanism should detect when\nimplant occurs and detect what kind of leads are attached.</b> That same mechanism should\nmaintain pacing even after one of the electrodes fails (with the switch to unipolar pacing). 8.6.1  System solution: Automatic Polarity Configuration and Lead Monitor",
+            "score": 0.87992656,
+            "metadata": [
+                {
+                    "name": "page",
+                    "value": "189"
+                },
+                {
+                    "name": "title",
+                    "value": "8.6  Configuring lead polarity"
+                },
+                {
+                    "name": "breadcrumb",
+                    "value": "[\"8  Configuring pacing therapies\"]"
+                },
+                {
+                    "name": "lang",
+                    "value": "eng"
+                },
+                {
+                    "name": "section",
+                    "value": "322"
+                },
+                {
+                    "name": "offset",
+                    "value": "1"
+                },
+                {
+                    "name": "len",
+                    "value": "171"
+                }
+            ],
+            "documentIndex": 1,
+            "corpusKey": {
+                "corpusId": 424,
+                "customerId": 0,
+                "semantics": "DEFAULT",
+                "dim": [],
+                "metadataFilter": ""
+            },
+            "resultOffset": 73,
+            "resultLength": 171
+        }
+    ],
+    "status": [],
+    "document": [
+        {
+            "id": "M994946A001A_view.pdf",
+            "metadata": [
+                {
+                    "name": "CreationDate",
+                    "value": "1555337677"
+                },
+                {
+                    "name": "Keywords",
+                    "value": "Language: EN"
+                },
+                {
+                    "name": "Producer",
+                    "value": "Antenna House PDF Output Library 6.2.609 (Linux64)"
+                },
+                {
+                    "name": "Title",
+                    "value": "MAPS ID: 503342-002"
+                },
+                {
+                    "name": "Creator",
+                    "value": "AH XSL Formatter V6.2 MR4 for Linux64 : 6.2.6.18551 (2014/09/24 15:00JST)"
+                },
+                {
+                    "name": "ModDate",
+                    "value": "1555337677"
+                },
+                {
+                    "name": "Trapped",
+                    "value": "/False"
+                },
+                {
+                    "name": "Subject",
+                    "value": "M994946A001\u00a0A_view.pdf"
+                },
+                {
+                    "name": "manufacturer",
+                    "value": "Medtronic"
+                },
+                {
+                    "name": "product_name",
+                    "value": "Azure S SR MRI SureScan"
+                },
+                {
+                    "name": "model",
+                    "value": "W3SR01"
+                },
+                {
+                    "name": "title",
+                    "value": "MAPS ID: 503342-002"
+                }
+            ]
+        },
+        {
+            "id": "M986837A001B_view.pdf",
+            "metadata": [
+                {
+                    "name": "CreationDate",
+                    "value": "1560424708"
+                },
+                {
+                    "name": "Keywords",
+                    "value": "Language: EN"
+                },
+                {
+                    "name": "Producer",
+                    "value": "Antenna House PDF Output Library 6.2.609 (Linux64)"
+                },
+                {
+                    "name": "Title",
+                    "value": "MAPS ID: 503277-014"
+                },
+                {
+                    "name": "Creator",
+                    "value": "AH XSL Formatter V6.2 MR4 for Linux64 : 6.2.6.18551 (2014/09/24 15:00JST)"
+                },
+                {
+                    "name": "ModDate",
+                    "value": "1560424708"
+                },
+                {
+                    "name": "Trapped",
+                    "value": "/False"
+                },
+                {
+                    "name": "Subject",
+                    "value": "M986837A001\u00a0B_view.pdf"
+                },
+                {
+                    "name": "manufacturer",
+                    "value": "Medtronic"
+                },
+                {
+                    "name": "product_name",
+                    "value": "Advisa MRI pacemaker"
+                },
+                {
+                    "name": "model",
+                    "value": "A2DR01"
+                },
+                {
+                    "name": "title",
+                    "value": "MAPS ID: 503277-014"
+                }
+            ]
+        }
+    ],
+    "summary": [
+        {
+            "text": "The Azure S SR MRI SureScan pacemaker features SureScan technology, allowing MRI scans when connected to specific leads[2]. It is MR Conditional and includes Bluetooth wireless telemetry capabilities[1]. The device is indicated for rate adaptive pacing and various cardiac conditions, but contraindicated for concomitant implant with another bradycardia device or implantable cardioverter defibrillator[5]. The system includes an implantable pulse generator and a torque wrench, with the pacemaker and pacing lead comprising the implantable portions[4]. The device offers different pacing modes tailored for specific patient needs, such as symptomatic AV block, bundle branch block, and sinus node dysfunctions[5].",
+            "lang": "eng",
+            "prompt": "",
+            "status": [],
+            "chat": {
+                "conversationId": "",
+                "turnId": "",
+                "rephrasedQuery": ""
+            }
+        }
+    ]
+}
