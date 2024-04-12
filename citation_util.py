@@ -5,6 +5,12 @@ import re
 logger = logging.getLogger(__name__)
 
 def streamline(search_response):
+    """
+    Streamlines a vectara response (starting with a specific response under the outer array)
+
+    :param search_response: the first response inside the array response
+    :return: a dict containing a "summary" with citations streamlined and a list of results used with ordering preserved
+    """
 
     # TODO 1. Create a list of search results
     # TODO 2. Iterate through the summary, and record which search result is used at which index
@@ -64,4 +70,5 @@ def streamline(search_response):
         "summary": result_summary,
         "result_indexes": result_index
     }
+    return streamline_response
 
